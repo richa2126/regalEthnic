@@ -84,6 +84,13 @@ class Contact extends Component {
                 <img src={Logo} className="App-logo" alt="logo" style={{ maxHeight: "100%", maxWidth: "100%" }} />
               </div>
               <div className="widget widget_contact">
+                <h4>For Support -</h4>
+                <p className="address">
+                  {" "}
+                  <a href="mailto:support@regalethnic.com" style={{ color: "white" }}>
+                    support@regalethnic.com
+                  </a>
+                </p>
                 <h4>Address and Phone</h4>
                 <p className="address">
                   {name}
