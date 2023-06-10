@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/regalInfoSite/static/css/main.b222f42f.chunk.css",
-    "main.js": "/regalInfoSite/static/js/main.fc8ee515.chunk.js",
-    "main.js.map": "/regalInfoSite/static/js/main.fc8ee515.chunk.js.map",
-    "runtime-main.js": "/regalInfoSite/static/js/runtime-main.47ccd97d.js",
-    "runtime-main.js.map": "/regalInfoSite/static/js/runtime-main.47ccd97d.js.map",
-    "static/js/2.c1c420ae.chunk.js": "/regalInfoSite/static/js/2.c1c420ae.chunk.js",
-    "static/js/2.c1c420ae.chunk.js.map": "/regalInfoSite/static/js/2.c1c420ae.chunk.js.map",
-    "static/js/3.37192441.chunk.js": "/regalInfoSite/static/js/3.37192441.chunk.js",
-    "static/js/3.37192441.chunk.js.map": "/regalInfoSite/static/js/3.37192441.chunk.js.map",
-    "index.html": "/regalInfoSite/index.html",
-    "static/css/main.b222f42f.chunk.css.map": "/regalInfoSite/static/css/main.b222f42f.chunk.css.map",
-    "static/js/2.c1c420ae.chunk.js.LICENSE.txt": "/regalInfoSite/static/js/2.c1c420ae.chunk.js.LICENSE.txt",
-    "static/media/regalLogo.4a038cef.png": "/regalInfoSite/static/media/regalLogo.4a038cef.png"
+    "main.css": "/regalEthnic/static/css/main.b222f42f.chunk.css",
+    "main.js": "/regalEthnic/static/js/main.fc8ee515.chunk.js",
+    "main.js.map": "/regalEthnic/static/js/main.fc8ee515.chunk.js.map",
+    "runtime-main.js": "/regalEthnic/static/js/runtime-main.6d6fbe3f.js",
+    "runtime-main.js.map": "/regalEthnic/static/js/runtime-main.6d6fbe3f.js.map",
+    "static/js/2.c1c420ae.chunk.js": "/regalEthnic/static/js/2.c1c420ae.chunk.js",
+    "static/js/2.c1c420ae.chunk.js.map": "/regalEthnic/static/js/2.c1c420ae.chunk.js.map",
+    "static/js/3.37192441.chunk.js": "/regalEthnic/static/js/3.37192441.chunk.js",
+    "static/js/3.37192441.chunk.js.map": "/regalEthnic/static/js/3.37192441.chunk.js.map",
+    "index.html": "/regalEthnic/index.html",
+    "static/css/main.b222f42f.chunk.css.map": "/regalEthnic/static/css/main.b222f42f.chunk.css.map",
+    "static/js/2.c1c420ae.chunk.js.LICENSE.txt": "/regalEthnic/static/js/2.c1c420ae.chunk.js.LICENSE.txt",
+    "static/media/regalLogo.4a038cef.png": "/regalEthnic/static/media/regalLogo.4a038cef.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.47ccd97d.js",
+    "static/js/runtime-main.6d6fbe3f.js",
     "static/js/2.c1c420ae.chunk.js",
     "static/css/main.b222f42f.chunk.css",
     "static/js/main.fc8ee515.chunk.js"
