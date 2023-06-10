@@ -2,13 +2,11 @@ import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
 import "../App.css";
-import Logo from "../Components/regalLogo.png";
+import Logo from "../Components/images/logo-no-background.svg";
 class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
-    // const project = this.props.data.project;
-    // const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
     const tagLine = this.props.data.tagLine;
@@ -38,12 +36,6 @@ class Header extends Component {
               </a>
             </li>
 
-            {/* <li>
-              <a className="smoothscroll" href="#resume">
-                Resume
-              </a>
-            </li> */}
-
             <li>
               <a className="smoothscroll" href="#portfolio">
                 Our Styles
@@ -61,9 +53,11 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
-              <div style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>
-                <img src={Logo} className="App-logo" alt="logo" style={{ width: "14%" }} />
-                <h1 className="responsive-headline" style={{ margin: "0 0 0 5%" }}>
+              <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center" }}>
+                <div style={{ height: "280px" }}>
+                  <img src={Logo} className="App-logo" alt="logo" style={{ maxHeight: "100%", maxWidth: "100%" }} />
+                </div>
+                <h1 className="responsive-headline" style={{ margin: "20px 0 0 0", fontSize: "80px" }}>
                   {name}
                 </h1>
               </div>
@@ -73,16 +67,6 @@ class Header extends Component {
               <h3>" {description} "</h3>
             </Fade>
             <hr />
-            {/* <Fade bottom duration={2000}>
-              <ul className="social">
-                <a href={project} className="button btn project-btn">
-                  <i className="fa fa-book"></i>Project
-                </a>
-                <a href={github} className="button btn github-btn">
-                  <i className="fa fa-github"></i>Github
-                </a>
-              </ul>
-            </Fade> */}
           </div>
         </div>
 

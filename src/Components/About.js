@@ -13,7 +13,7 @@ class About extends Component {
               <h2>About Us</h2>
 
               <p>
-                At our ethnic clothing brand, our unwavering focus is on delivering impeccable quality to our discerning customers. We believe that true elegance lies in the flawless craftsmanship, luxurious fabrics, and attention to detail that is evident in every garment we create.
+                At our Regal Ethnic clothing brand, our unwavering focus is on delivering impeccable quality to our discerning customers. We believe that true elegance lies in the flawless craftsmanship, luxurious fabrics, and attention to detail that is evident in every garment we create.
                 <br />
                 <br />
                 From the moment you set eyes on our collection, you will recognize the dedication we have towards sourcing the finest materials. We handpick premium fabrics that exude opulence and ensure a comfortable and luxurious feel against your skin. Our team of skilled artisans then transforms these fabrics into exquisite pieces of art, meticulously crafting each garment to perfection.

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,UACE,2BAA6B,CAC7B,6BACF","file":"main.ebba366a.chunk.css","sourcesContent":[".tag-line {\n  font-style: italic !important;\n  padding-bottom: 15px !important;\n}\n"]}

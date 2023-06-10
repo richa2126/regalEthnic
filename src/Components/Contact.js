@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Fade, Slide } from "react-reveal";
+import Logo from "../Components/images/logo-no-background.svg";
 
 class Contact extends Component {
   render() {
@@ -79,6 +80,9 @@ class Contact extends Component {
 
           <Slide bottom duration={1000}>
             <aside className="four columns footer-widgets">
+              <div style={{ height: "220px", margin: "20px" }}>
+                <img src={Logo} className="App-logo" alt="logo" style={{ maxHeight: "100%", maxWidth: "100%" }} />
+              </div>
               <div className="widget widget_contact">
                 <h4>Address and Phone</h4>
                 <p className="address">
