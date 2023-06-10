@@ -21,7 +21,6 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-        {/* <Fade duration={1000} distance="40px"> */}
         <div className="row">
           <div className="twelve columns collapsed">
             <h1>Check Out Some of Our Styles.</h1>
@@ -31,7 +30,6 @@ class Portfolio extends Component {
             </div>
           </div>
         </div>
-        {/* </Fade> */}
       </section>
     );
   }
