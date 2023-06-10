@@ -54,7 +54,7 @@ class Header extends Component {
           <div className="banner-text">
             <Fade bottom>
               <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center" }}>
-                <div style={{ height: "280px" }}>
+                <div style={{ height: "280px", marginTop: "30px" }}>
                   <img src={Logo} className="App-logo" alt="logo" style={{ maxHeight: "100%", maxWidth: "100%" }} />
                 </div>
                 <h1 className="responsive-headline" style={{ margin: "20px 0 0 0", fontSize: "80px" }}>
